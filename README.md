@@ -65,9 +65,9 @@ Metrics aligned to analytical goals:
 * UCI Machine Learning Repository Glass Identification Dataset
 * Contains:
   
-o	Refractive index values
-o	Oxide chemical composition (% weight)
-o	Categorical glass type labels
+- Refractive index values
+- Oxide chemical composition (% weight)
+- Categorical glass type labels
 
 **5. Tools Used**
 
