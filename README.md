@@ -93,3 +93,28 @@ Average Silica Content	      72.65%
 
 High-Barium Sample Percentage	  0.18%
 
+ **Major Findings**
+ 
+✔ Silica (SiO₂) is the dominant oxide across all glass types
+✔ Type 1 & Type 2 glasses occur most frequently
+✔ Barium is present in very few samples, making Ba-rich glass identifiable
+✔ Chemical profiles strongly differentiate glass type
+✔ Refractive Index values remain relatively consistent by category
+✔ Sodium, Magnesium, and Aluminum vary moderately
+✔ Some rare compositions were detected (potential forensic relevance)
+
+**7. Recommendations**
+
+✔ For manufacturing quality control
+* Monitor Ba outliers as indicators of contamination
+* Track silica stability to maintain consistent RI
+* Develop alert thresholds by oxide percentage
+✔ For forensic applications
+* Use Ba and Fe content to distinguish rare samples
+* Recommend adding machine-learning classification layer
+* Maintain chemical reference library
+✔ For dashboard improvement
+* Add time-series tracking if temporal data exists
+* Include predictive classification using RI + composition
+* Deploy dashboard online for interactive stakeholder access
+
