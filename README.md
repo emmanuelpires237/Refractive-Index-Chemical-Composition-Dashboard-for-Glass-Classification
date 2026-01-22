@@ -59,3 +59,20 @@ Metrics aligned to analytical goals:
 **➤ Step 6: Result Interpretation**
 * Derived business and scientific insights
 * Prepared recommendations
+
+**4.Data Source**
+
+* UCI Machine Learning Repository Glass Identification Dataset
+* Contains:
+  
+o	Refractive index values
+o	Oxide chemical composition (% weight)
+o	Categorical glass type labels
+
+**5. Tools Used**
+
+* Power BI — dashboard & data modeling
+* Microsoft Excel — initial analysis and preprocessing
+* DAX — KPI and measure creation
+* Statistics & EDA techniques — interpretation
+* Data visualization best practices
