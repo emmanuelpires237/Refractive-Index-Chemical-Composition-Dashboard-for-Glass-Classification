@@ -81,11 +81,15 @@ Metrics aligned to analytical goals:
 
 **📌 Key Performance Indicators (KPIs)**
 
-**| KPI	     |                                         |   Value|**
+**KPI AND	Value**
 
 Total Samples               	214
+
 Average Refractive Index    	1.52
+
 Number of Distinct Glass Types	6
+
 Average Silica Content	      72.65%
+
 High-Barium Sample Percentage	  0.18%
 
