@@ -80,7 +80,8 @@ Metrics aligned to analytical goals:
 **6. Results & Key Findings**
 
 **📌 Key Performance Indicators (KPIs)**
-**KPI	                      Value**
+| **KPI	     |              |   Value** |
+
 Total Samples               	214
 Average Refractive Index    	1.52
 Number of Distinct Glass Types	6
