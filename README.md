@@ -95,13 +95,13 @@ High-Barium Sample Percentage	  0.18%
 
  **Major Findings**
  
-✔ Silica (SiO₂) is the dominant oxide across all glass types
-✔ Type 1 & Type 2 glasses occur most frequently
-✔ Barium is present in very few samples, making Ba-rich glass identifiable
-✔ Chemical profiles strongly differentiate glass type
-✔ Refractive Index values remain relatively consistent by category
-✔ Sodium, Magnesium, and Aluminum vary moderately
-✔ Some rare compositions were detected (potential forensic relevance)
+* Silica (SiO₂) is the dominant oxide across all glass types
+* Type 1 & Type 2 glasses occur most frequently
+* Barium is present in very few samples, making Ba-rich glass identifiable
+* Chemical profiles strongly differentiate glass type
+* Refractive Index values remain relatively consistent by category
+* Sodium, Magnesium, and Aluminum vary moderately
+* Some rare compositions were detected (potential forensic relevance)
 
 **7. Recommendations**
 
