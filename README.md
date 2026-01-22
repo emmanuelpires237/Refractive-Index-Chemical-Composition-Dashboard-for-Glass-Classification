@@ -76,3 +76,14 @@ Metrics aligned to analytical goals:
 * DAX — KPI and measure creation
 * Statistics & EDA techniques — interpretation
 * Data visualization best practices
+
+**6. Results & Key Findings**
+
+**📌 Key Performance Indicators (KPIs)**
+**KPI	                      Value**
+Total Samples               	214
+Average Refractive Index    	1.52
+Number of Distinct Glass Types	6
+Average Silica Content	      72.65%
+High-Barium Sample Percentage	  0.18%
+
