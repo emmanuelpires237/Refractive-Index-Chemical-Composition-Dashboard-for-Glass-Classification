@@ -9,6 +9,7 @@ This project focuses on developing an interactive analytical dashboard to explor
 The central goal was to provide data-driven insight into how chemical composition influences physical properties, particularly Refractive Index (RI) across different glass types.
 
 **2. Project Scope**
+
 **The project covers:**
 * ✔ Data cleaning and preparation
 * ✔ Exploratory data analysis (EDA)
