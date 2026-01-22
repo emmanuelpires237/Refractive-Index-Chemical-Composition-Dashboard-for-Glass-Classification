@@ -136,3 +136,4 @@ The dashboard delivers clear insights, actionable metrics, and visually compelli
 * academic research
 * data-driven manufacturing environments
 
+<img width="1158" height="723" alt="DASHBOARD" src="https://github.com/user-attachments/assets/a06a6cd6-3aed-4c7b-baf8-175faaeb2fa5" />
