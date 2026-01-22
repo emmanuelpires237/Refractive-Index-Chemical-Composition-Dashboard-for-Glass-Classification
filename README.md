@@ -1,1 +1,1 @@
-# Refractive-Index-Chemical-Composition-Dashboard-for-Glass-Classification
+# Refractive Index Chemical Composition Dashboard for Glass Classification
