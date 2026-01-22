@@ -120,3 +120,19 @@ High-Barium Sample Percentage	  0.18%
 * Include predictive classification using RI + composition
 * Deploy dashboard online for interactive stakeholder access
 
+**8. Conclusion**
+
+**This project successfully demonstrates:**
+
+* Data cleaning & preprocessing skills
+* KPI design and analytical thinking
+* Dashboard visualization competency
+* Ability to translate data into practical recommendations
+It highlights the relationship between chemical composition and physical glass properties, supporting both scientific interpretation and business decision-making.
+The dashboard delivers clear insights, actionable metrics, and visually compelling analytics, making it valuable for:
+* forensic laboratories
+* materials scientists
+* quality assurance teams
+* academic research
+* data-driven manufacturing environments
+
