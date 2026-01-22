@@ -81,7 +81,7 @@ Metrics aligned to analytical goals:
 
 **📌 Key Performance Indicators (KPIs)**
 
-| **KPI	     |              |   Value** |
+| **KPI	     |                                         |   Value** |
 
 Total Samples               	214
 Average Refractive Index    	1.52
