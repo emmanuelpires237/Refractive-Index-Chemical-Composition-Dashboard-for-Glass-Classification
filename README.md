@@ -80,6 +80,7 @@ Metrics aligned to analytical goals:
 **6. Results & Key Findings**
 
 **📌 Key Performance Indicators (KPIs)**
+
 | **KPI	     |              |   Value** |
 
 Total Samples               	214
