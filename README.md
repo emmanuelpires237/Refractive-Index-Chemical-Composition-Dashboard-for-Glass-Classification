@@ -109,10 +109,12 @@ High-Barium Sample Percentage	  0.18%
 * Monitor Ba outliers as indicators of contamination
 * Track silica stability to maintain consistent RI
 * Develop alert thresholds by oxide percentage
+  
 ✔ For forensic applications
 * Use Ba and Fe content to distinguish rare samples
 * Recommend adding machine-learning classification layer
 * Maintain chemical reference library
+  
 ✔ For dashboard improvement
 * Add time-series tracking if temporal data exists
 * Include predictive classification using RI + composition
