@@ -24,3 +24,38 @@ The dashboard specifically analyses:
 * Trends in silica and barium content
 * Chemical consistency across glass classes
 * Sample distribution by glass type
+
+**3. Methodology**
+
+A structured analytical approach was used:
+
+**➤ Step 1: Data Understanding**
+* Reviewed schema and variable descriptions
+* Identified target features and contaminants
+
+**➤ Step 2: Data Cleaning**
+* Removed missing / duplicate records
+* Validated chemical percentage totals
+* Normalized type labels
+  
+**➤ Step 3: Exploratory Data Analysis**
+* Univariate distribution of oxides
+* Chemical clustering by type
+* Outlier detection
+  
+**➤ Step 4: KPI Development**
+Metrics aligned to analytical goals:
+* Total Samples
+* Average Refractive Index
+* Average Silica (Si) Content
+* % High Barium Samples
+* Number of Distinct Glass Types
+  
+**➤ Step 5: Dashboard Design**
+* Created interactive slicers
+* Drill-through capabilities
+* Multi-chart comparative view
+  
+**➤ Step 6: Result Interpretation**
+* Derived business and scientific insights
+* Prepared recommendations
